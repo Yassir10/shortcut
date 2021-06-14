@@ -1,0 +1,1 @@
+This project can be run with npm start on the Terminal of your IDE.
